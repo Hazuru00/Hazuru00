@@ -115,7 +115,7 @@ Siempre codifico al ritmo del **Rock y el Metal** para mantener el *focus*.
 
 <br><a href="https://HazuCh.pythonanywhere.com/link?spin=true&scan=true&eq_color=rainbow&theme=dark](https://hazuch.pythonanywhere.com/link?spin=true&scan=true&eq_color=rainbow&theme=dark">
   <img
-    src="https://HazuCh.pythonanywhere.com"
+    src="https://HazuCh.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark"
     alt="Current Spotify Song"
   />
 </a>
