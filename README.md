@@ -102,6 +102,8 @@ git clone https://github.com/Hazuru00/Spotify-Readme
 mkvirtualenv --python=/usr/bin/python3.10 venv
 pip install -r Spotify-Readme/Source/requirements.txt
 nano Spotify-Readme/Source/.env
+git clone https://github.com/Hazuru00/Spotify-Readme mkvirtualenv --python=/usr/bin/python3.10 venv pip install -r Spotify-Readme/Source/requirements.txt
+
 -->
 ---
 
@@ -109,19 +111,18 @@ nano Spotify-Readme/Source/.env
 
 Siempre codifico al ritmo del **Rock y el Metal** para mantener el *focus*.
 
-[🎶 Escucha mi Playlist de Batalla aquí]([Tu Música de Batalla (Spotify/YouTube)]) 
-git clone https://github.com/Hazuru00/Spotify-Readme mkvirtualenv --python=/usr/bin/python3.10 venv pip install -r Spotify-Readme/Source/requirements.txt
-
-
-
-
----
+🎶 **Escuchando en este momento**
 <a href="https://HazuCh.pythonanywhere.com/link">
   <img
     src="https://HazuCh.pythonanywhere.com"
     alt="Current Spotify Song"
   />
 </a>
+
+
+
+
+---
 
 ## 📬 Buzon/Chat (Contacto)
 
