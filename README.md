@@ -64,11 +64,11 @@ Este es mi arsenal de tecnologías, la **Build** que uso para construir mundos.
 
 ## 📈 Mi Perfil de Logros de GitHub
 
-<div align="center" background-color="#2C2D30">
+<div align="center" background-color="#2C2D30" >
     
 ### Mi Tarjeta de Stats (El Scoreboard Global)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hazuru00&show_icons=true&theme=aura&hide_border=true&count_private=true)
+![Stats Github](https://github-readme-stats.vercel.app/api?username=Hazuru00&show_icons=true&theme=aura&hide_border=true&count_private=true)
 
 ### Trofeos de GitHub (Mis logros mas Raros)
 
