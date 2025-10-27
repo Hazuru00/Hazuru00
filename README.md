@@ -109,16 +109,20 @@ git clone https://github.com/Hazuru00/Spotify-Readme mkvirtualenv --python=/usr/
 
 ## 🎵 Soundtrack
 
-Siempre codifico al ritmo del **Rock y el Metal** para mantener el *focus*.
+<div align="center">
+    <p>Siempre codifico al ritmo de la musica para mantener el <i>focus</i> en especial con el <strong>Rock y el Metal</strong>.</p>
+    <strong >🎶Escuchando en este momento</strong>
+</div>
 
-🎶 **Escuchando en este momento**
-
-<br><a href="https://HazuCh.pythonanywhere.com/link">
-  <img
-    src="https://HazuCh.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark"
-    alt="Current Spotify Song"
-  />
-</a>
+<br>
+<div align="center" >
+    <a href="https://HazuCh.pythonanywhere.com/link">
+      <img
+        src="https://HazuCh.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark"
+        alt="Current Spotify Song" width="70%"
+      />
+    </a>
+</div>
 
 
 
