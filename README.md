@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 | **Plataforma** | **🖥️ Elenemigos** | no hay plata para steam SOY **POBRE**. |
 | **HP actual (Proyectos)** | **💪 -20/10** | ¡Energía en negativo como mi cuenta bancaria para codear toda la noche! |
 | **XP (Experiencia)** | **🔥 Web developer** | Mi hechizo más potente y de mayor nivel... solo si no me nerfea silksong . |
-| **Juego Favorito Actucal** | **⭐️ [[Juego fav](https://store.steampowered.com/app/1635590/Mi_Amiga_Peppa_Cerdita/)]** | La *Obra maestra* que me inspira cada dia en esfecto es cine. |
+| **Juego Favorito Actucal** | **⭐️ [[Juego fav](https://store.steampowered.com/app/1635590/Mi_Amiga_Peppa_Cerdita/)]** | La *Obra maestra* que me inspira cada dia en efecto es cine <br> ![Absolutecinema](https://i.imgur.com/GZKANL7.jpeg). |
 
 ---
 
