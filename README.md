@@ -142,6 +142,14 @@ git clone https://github.com/Hazuru00/Spotify-Readme mkvirtualenv --python=/usr/
 > [!WARNING]
 > Si es discord sean claros con lo que necesitan por que hay siempre mandan puro md estafa esos perfiles los reporto eh, nada de spam xd si van a mandar momazos de One manden momos pe.
 ---
+<div align="center">
+<img
+    src="https://i.redd.it/hagotvz51f971.jpg"
+    alt="CAPITANPERU"
+    />
+
+<h1> ADIOSS!! Y que el poder de la gran causa te acompañe pe</h1>
+</div>
 
 >  [!NOTE]
 >  **¡Gracias por visitar mi Base de Operaciones Pe!**
