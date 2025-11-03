@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 | Atributo | Valor | Descripción |
 | :--- | :--- | :--- |
-| **Clase/Rol** | **⚔️ Me vale vrg** | Especializado en **dormir** y **PROGRAMANDO con las patas** |
+| **Clase/Rol** | **⚔️ Me vale vrg** | Especializado en **dormir** y **PROGRAMAR con las patas** |
 | **Plataforma** | **🖥️ Elenemigos** | no hay plata para steam SOY **POBRE**. |
 | **HP actual (Proyectos)** | **💪 -20/10** | ¡Energía en negativo como mi cuenta bancaria para codear toda la noche! |
 | **XP (Experiencia)** | **🔥 Web developer** | Mi hechizo más potente y de mayor nivel... solo si no me nerfea silksong . |
