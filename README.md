@@ -15,37 +15,37 @@ Here are some ideas to get you started:
 # 👾 HAZURU00 Profile - Level Up! ⬆️
 
 >  [!WARNING]
->   el Perfil mas *CURSEADO* que veras en tu vida we no apto para fotosensibles 📸🤡
+>   el Perfil mas *CURSEADO* que veras en tu vida we xd no apto para fotosensibles 📸🤡
 > 
 >  🗣️ **Lingan guli guli guli guacha 🗣 lingangu lingangu**
 > 
->   **#HAZURU**, El Dev que le sabe al shitpost PAPUUU*
+>   **#HAZURU**, El Dev que le sabe al shitpost y que ama el gaming*
 
 ---
 
-## 🕹️ Stats del Muchacho (Papu stats)
+## 🕹️ Mis Stats
 
 | Atributo | Valor | Descripción |
 | :--- | :--- | :--- |
-| **Clase/Rol** | **⚔️ Me vale vrg** | Especializado en **dormir** y **PROGRAMAR con las patas** |
-| **Plataforma** | **🖥️ Elenemigos** | no hay plata para steam SOY **POBRE**. |
-| **HP actual (Proyectos)** | **💪 -20/10** | ¡Energía en negativo como mi cuenta bancaria para codear toda la noche! |
-| **XP (Experiencia)** | **🔥 Web developer** | Mi hechizo más potente y de mayor nivel... solo si no me nerfea silksong . |
+| **Clase/Rol** | **⚔️ FULLSTACK Developer** | Especializado en **dormir** y **Programar tanto front end como backend** |
+| **Plataforma** | **🖥️ sSteam** | pero no hay plata para steam soy **POBRE**. |
+| **HP actual (Proyectos)** | **💪 -10/10** | ¡Energía en negativo como mi cuenta bancaria para codear toda la noche! |
+| **XP (Experiencia)** | **🔥 Web developer** | Mi hechizo más potente y de mayor nivel... solo si no me nerfea la chamba. |
 | **Juego Favorito Actucal** | **⭐️ [[Juego fav](https://store.steampowered.com/app/1635590/Mi_Amiga_Peppa_Cerdita/)]** | La *Obra maestra* que me inspira cada dia en efecto es cine <br> ![Absolutecinema](https://i.imgur.com/GZKANL7.jpeg). |
 
 ---
 
 ## 🛠️ Inventario de Habilidades (Skill Inventory)
 
-Este es mi arsenal de tecnologías, la **Build** que uso para construir mundos.
+Este es mi arsenal de tecnologías, la **Build** que uso para construir software.
 
 | Tipo de Arma | Tecnología | Nivel de Maestría |
 | :--- | :--- | :--- |
-| **Arma Principal** | **![Un Icono god](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx_bdLqy2htwydfzFAz7T1ozxbfDGXD70kgg&s) [Backend]** | 🥇 Legendaria |
-| **Arma Secundaria**| `TypeScript` / `Python` / `JavaScript` / `CSS/HTML` | 🥈 Épico (Epic) |
+| **Arma Principal** | **![Un Icono god](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx_bdLqy2htwydfzFAz7T1ozxbfDGXD70kgg&s) [Frontend]** | 🥇 Legendaria |
+| **Arma Secundaria**| `TypeScript` / `Python` / `JavaScript` / `CSS/HTML` / `GDScript` | 🥈 Épico (Epic) |
 | **Armadura (Frameworks)** | `React` / `Tailwind CSS` | 🥉 Raro (Rare) |
 | **Pociones (Bases de Datos)** | `SQLite` / `SQL` | Común (Common) |
-| **Montura (Nube/DevOps)** | `Docker` / `GitHub` | En Progreso (Grinding) pq no le se del todo |
+| **Montura (Nube/DevOps)** | `Docker` / `Vercel` | En Progreso (Grinding) |
 
 > [!TIP]
 > **BORRA LA CUENTA** 🗣🗣🗣🗣
@@ -54,11 +54,11 @@ Este es mi arsenal de tecnologías, la **Build** que uso para construir mundos.
 
 ## 🎯 **Registro de Misiones**
 
-> **Misión Principal (Main Quest):** Crearme un **Portafolio pe** o un **Mod para el Terraria** tambien quiero hacer un **videojugo** de chill
+> **Misión Principal (Main Quest):** Crearme un **Portafolio god** o un **Mod para el Terraria** tambien quiero hacer un **videojugo** indie de chill
 >
 > **Objetivo Actual (Current Objective):** 🎯 **"Conseguir Chamba Nesecito Ahorrar"**
 >
-> **Último Logro Desbloqueado (Last Achievement Unlocked):** 🏆 **Aprendí a usar ¡Markdown! pq no le sabia**
+> **Último Logro Desbloqueado (Last Achievement Unlocked):** 🏆 **Aprendí a usar ¡Discord Api! pq no le sabia**
 
 ---
 
@@ -131,7 +131,7 @@ git clone https://github.com/Hazuru00/Spotify-Readme mkvirtualenv --python=/usr/
 
 ## 📬 Buzon/Chat (Contacto)
 
-¿Quieres formar equipo para un proyecto? ¡Mándame un mensaje al **chat papu**!
+¿Quieres formar equipo para un proyecto? ¡Mándame un mensaje a mi **Contacto**!
 
 | Plataforma | Link |
 | :--- | :--- |
@@ -140,8 +140,9 @@ git clone https://github.com/Hazuru00/Spotify-Readme mkvirtualenv --python=/usr/
 | **📧 Correo Electrónico** | [HazuruCh@proton.me] |
 <!--| **🔗 LinkedIn** | [Aun no] | -->
 > [!WARNING]
-> Si es discord sean claros con lo que necesitan por que hay siempre mandan puro md estafa esos perfiles los reporto eh, nada de spam xd si van a mandar momazos de One manden momos pe.
+> Si es discord sean claros con lo que necesitan, nada de spam xd si van a mandar momazos de One manden momos eh.
 ---
+<!-- 
 <div align="center">
 <img
     src="https://i.redd.it/hagotvz51f971.jpg"
@@ -150,7 +151,7 @@ git clone https://github.com/Hazuru00/Spotify-Readme mkvirtualenv --python=/usr/
 
 <h1> ADIOSS!! Y que el poder de la gran causa te acompañe pe</h1>
 </div>
-
+-->
 >  [!NOTE]
 >  **¡Gracias por visitar mi Base de Operaciones Pe!**
 >
