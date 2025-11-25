@@ -22,10 +22,7 @@ Here are some ideas to get you started:
 >   **#HAZURU**, El Dev que le sabe al shitpost y que ama el gaming*
 
 
-<div align="center">
-    <h1>Mi targeta de dev<h1>
-  <a  href="https://app.daily.dev/hazuru" style="aling-center"><img src="https://api.daily.dev/devcards/v2/iTy8qwet5ZI0xxxH5XLT2.png?r=oiu&type=default" width="356" alt="Moises Marcano's Dev Card"/></a>  
-</div>
+
 
 ---
 
@@ -86,6 +83,10 @@ Este es mi arsenal de tecnologías, la **Build** que uso para construir software
 
 </div>
 
+<div align="center">
+    <h1>Mi targeta de dev<h1>
+  <a  href="https://app.daily.dev/hazuru" style="aling-center"><img src="https://api.daily.dev/devcards/v2/iTy8qwet5ZI0xxxH5XLT2.png?r=oiu&type=default" width="356" alt="Moises Marcano's Dev Card"/></a>  
+</div>
 <!-- 
 curl \
   -X POST \
