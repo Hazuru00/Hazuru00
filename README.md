@@ -72,17 +72,17 @@ Este es mi arsenal de tecnologías, la **Build** que uso para construir software
 ### Mi Tarjeta de Stats (El Scoreboard Global)
 
 ![Stats Github](https://github-readme-stats-delta-vert-12.vercel.app/api?username=hazuru00&theme=radical&show_icons=true)
-
+<!--
 ### Trofeos de GitHub (Mis logros mas Raros)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hazuru00&theme=discord&no-border=true)
-
+-->
 ### Lenguajes Usados (😴)
 
 ![Top Langs](https://github-readme-stats-delta-vert-12.vercel.app/api/top-langs/?username=hazuru00&langs_count=8&layout=donut&theme=radical)
-
+<!--
 ![WakaTime](https://github-readme-stats-delta-vert-12.vercel.app/api/wakatime?username=hazuru00&theme=radical)
-
+-->
 </div>
 
 <div align="center">
