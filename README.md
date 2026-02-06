@@ -46,7 +46,7 @@ Este es mi arsenal de tecnologías, la **Build** que uso para construir software
 | :--- | :--- | :--- |
 | **Arma Principal** | **![Un Icono god](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx_bdLqy2htwydfzFAz7T1ozxbfDGXD70kgg&s) [Frontend]** | 🥇 Legendaria |
 | **Arma Secundaria**| `TypeScript` / `Python` / `JavaScript` / `CSS/HTML` / `GDScript` | 🥈 Épico (Epic) |
-| **Armadura (Frameworks)** | `React` / `Tailwind CSS` | 🥉 Raro (Rare) |
+| **Armadura (Frameworks)** | `React` / `Tailwind CSS` / `Vue` / `Motion` | 🥉 Raro (Rare) |
 | **Pociones (Bases de Datos)** | `SQLite` / `SQL` | Común (Common) |
 | **Montura (Nube/DevOps)** | `Docker` / `Vercel` | En Progreso (Grinding) |
 
@@ -87,31 +87,7 @@ Este es mi arsenal de tecnologías, la **Build** que uso para construir software
     <h1>Mi targeta de dev<h1>
   <a  href="https://app.daily.dev/hazuru" style="aling-center"><img src="https://api.daily.dev/devcards/v2/iTy8qwet5ZI0xxxH5XLT2.png?r=oiu&type=default" width="356" alt="Moises Marcano's Dev Card"/></a>  
 </div>
-<!-- 
-curl \
-  -X POST \
-  -H "Content-Type: application/x-www-form-urlencoded" \
-  -H "Authorization: Basic ODZjNmNhOTU3NjE3NDgwNGIzNGY2YTBhM2Q1M2U5MmI6ZDcyM2YzYzc4MmUwNDJmMWE0YTIxNTgwNWQzYzcxMGY=" \
-  -d "grant_type=authorization_code&redirect_uri=http://127.0.0.1:80/callback&code=AQDnJvuMYRzeb4G4HzmMExnet96tGDYO-zf6ovyo-vbpMOy28zWa0Gduhn3i8_1DOHf4yGW_tyKz53zvSQrLMLUSL6K-WMJFoC8gUek2JUdcFscwFUto94Kupn5KB2J0mG9DGeCzqJ5-oLNEunAXdokvLFTeQAr5sExHq3EQC0QJEUOcULQoJP6ASUqRonNbL8AJOR34hxgjW6UH4NXrczyrVOmMk3V_iFP6BLiIJwinZYm8hB5jYg" \
-  https://accounts.spotify.com/api/token
 
-access_token":"BQBKoz2Nz6nuVI_2N1AUv62QRdV-tRnmyj5KpIuT-zkXvvGErVGDJG_lSiN1NA1RvrdXvzQmU-aZL61puxWJ79FQ-AxqsN_XH_mOCC2OD8EZhspc6z7fs2ucr_LM9zqR7OS_0ms6L3x5gbkOQDNM25JKv0r8j-IbqbduBICPbHSWtbY6S7Jp-r5704VJx5FneIwZgSPvnwk5aguwAVdeP2hxxPXsNj1-daTbKKQ-S88MKtCAPME8kw","token_type":"Bearer","expires_in":3600,"refresh_token":"AQBvkiMRL_SXKkwg4ieqEV_bZAHHoqmdDRH6jqOckeuIZIIhc2oRjLfGF82mltpKCjjzuyg3NtNA10ohkWK0ED-pWR9SF5tT9jb4jKUEzH5taFInX5lBEIpUebTT9fO2VKc","scope":"user-read-currently-playing user-read-recently-played"}
-
-
-CODE: AQDnJvuMYRzeb4G4HzmMExnet96tGDYO-zf6ovyo-vbpMOy28zWa0Gduhn3i8_1DOHf4yGW_tyKz53zvSQrLMLUSL6K-WMJFoC8gUek2JUdcFscwFUto94Kupn5KB2J0mG9DGeCzqJ5-oLNEunAXdokvLFTeQAr5sExHq3EQC0QJEUOcULQoJP6ASUqRonNbL8AJOR34hxgjW6UH4NXrczyrVOmMk3V_iFP6BLiIJwinZYm8hB5jYg
-CLIENT_ID="86c6ca9576174804b34f6a0a3d53e92b"
-CLIENT_SECRET="d723f3c782e042f1a4a215805d3c710f"
-REFRESH_TOKEN="BQBKoz2Nz6nuVI_2N1AUv62QRdV-tRnmyj5KpIuT-zkXvvGErVGDJG_lSiN1NA1RvrdXvzQmU-aZL61puxWJ79FQ-AxqsN_XH_mOCC2OD8EZhspc6z7fs2ucr_LM9zqR7OS_0ms6L3x5gbkOQDNM25JKv0r8j-IbqbduBICPbHSWtbY6S7Jp-r5704VJx5FneIwZgSPvnwk5aguwAVdeP2hxxPXsNj1-daTbKKQ-S88MKtCAPME8kw","token_type":"Bearer","expires_in":3600,"refresh_token":"AQBvkiMRL_SXKkwg4ieqEV_bZAHHoqmdDRH6jqOckeuIZIIhc2oRjLfGF82mltpKCjjzuyg3NtNA10ohkWK0ED-pWR9SF5tT9jb4jKUEzH5taFInX5lBEIpUebTT9fO2VKc","scope":"user-read-currently-playing user-read-recently-played"
-
-BASE64: ODZjNmNhOTU3NjE3NDgwNGIzNGY2YTBhM2Q1M2U5MmI6ZDcyM2YzYzc4MmUwNDJmMWE0YTIxNTgwNWQzYzcxMGY=
-
-git clone https://github.com/Hazuru00/Spotify-Readme
-mkvirtualenv --python=/usr/bin/python3.10 venv
-pip install -r Spotify-Readme/Source/requirements.txt
-nano Spotify-Readme/Source/.env
-git clone https://github.com/Hazuru00/Spotify-Readme mkvirtualenv --python=/usr/bin/python3.10 venv pip install -r Spotify-Readme/Source/requirements.txt
-
--->
 ---
 
 ## 🎵 Soundtrack
