@@ -61,7 +61,7 @@ Este es mi arsenal de tecnologías, la **Build** que uso para construir software
 >
 > **Objetivo Actual (Current Objective):** 🎯 **"Conseguir Chamba Nesecito Ahorrar"**
 >
-> **Último Logro Desbloqueado (Last Achievement Unlocked):** 🏆 **Aprendí a usar ¡Discord Api! pq no le sabia**
+> **Último Logro Desbloqueado (Last Achievement Unlocked):** 🏆 **Aprendí a usar ¡NextJS! pq no le sabia**
 
 ---
 
