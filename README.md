@@ -80,9 +80,9 @@ Este es mi arsenal de tecnologías, la **Build** que uso para construir software
 ### Lenguajes Usados (😴)
 
 ![Top Langs](https://github-readme-stats-delta-vert-12.vercel.app/api/top-langs/?username=hazuru00&langs_count=8&layout=donut&theme=radical)
-<!--
+
 ![WakaTime](https://github-readme-stats-delta-vert-12.vercel.app/api/wakatime?username=hazuru00&theme=radical)
--->
+
 </div>
 
 <div align="center">
