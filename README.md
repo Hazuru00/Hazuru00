@@ -1,143 +1,129 @@
-<!--
-**Hazuru00/Hazuru00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👾 HAZURU00 Profile - Level Up! ⬆️
-
->  [!WARNING]
->   el Perfil mas *CURSEADO* que veras en tu vida we xd no apto para fotosensibles 📸🤡
-> 
->  🗣️ **Lingan guli guli guli guacha 🗣 lingangu lingangu**
-> 
->   **#HAZURU**, El Dev que le sabe al shitpost y que ama el gaming*
-
-
-
-
----
-
-## 🕹️ Mis Stats
-
-| Atributo | Valor | Descripción |
-| :--- | :--- | :--- |
-| **Clase/Rol** | **⚔️ FULLSTACK Developer** | Especializado en **dormir** y **Programar tanto front end como backend** |
-| **Plataforma** | **🖥️ sSteam** | pero no hay plata para steam soy **POBRE**. |
-| **HP actual (Proyectos)** | **💪 -10/10** | ¡Energía en negativo como mi cuenta bancaria para codear toda la noche! |
-| **XP (Experiencia)** | **🔥 Web developer** | Mi hechizo más potente y de mayor nivel... solo si no me nerfea la chamba. |
-| **Juego Favorito Actucal** | **⭐️ [[Juego fav](https://store.steampowered.com/app/1635590/Mi_Amiga_Peppa_Cerdita/)]** | La *Obra maestra* que me inspira cada dia en efecto es cine <br> ![Absolutecinema](https://i.imgur.com/GZKANL7.jpeg). |
-
----
-
-## 🛠️ Inventario de Habilidades (Skill Inventory)
-
-Este es mi arsenal de tecnologías, la **Build** que uso para construir software.
-
-| Tipo de Arma | Tecnología | Nivel de Maestría |
-| :--- | :--- | :--- |
-| **Arma Principal** | **![Un Icono god](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx_bdLqy2htwydfzFAz7T1ozxbfDGXD70kgg&s) [Frontend]** | 🥇 Legendaria |
-| **Arma Secundaria**| `TypeScript` / `Python` / `JavaScript` / `CSS/HTML` / `GDScript` | 🥈 Épico (Epic) |
-| **Armadura (Frameworks)** | `React` / `Tailwind CSS` / `Vue` / `Motion` | 🥉 Raro (Rare) |
-| **Pociones (Bases de Datos)** | `SQLite` / `SQL` | Común (Common) |
-| **Montura (Nube/DevOps)** | `Docker` / `Vercel` | En Progreso (Grinding) |
-
-> [!TIP]
-> **BORRA LA CUENTA** 🗣🗣🗣🗣
-
----
-
-## 🎯 **Registro de Misiones**
-
-> **Misión Principal (Main Quest):** Crearme un **Portafolio god** o un **Mod para el Terraria** tambien quiero hacer un **videojugo** indie de chill
->
-> **Objetivo Actual (Current Objective):** 🎯 **"Conseguir Chamba Nesecito Ahorrar"**
->
-> **Último Logro Desbloqueado (Last Achievement Unlocked):** 🏆 **Aprendí a usar ¡NextJS! pq no le sabia**
-
----
-
-## 📈 Mi Perfil de Logros de GitHub
-
-<div align="center" background-color="#2C2D30" >
-    
-### Mi Tarjeta de Stats (El Scoreboard Global)
-
-![Stats Github](https://github-readme-stats-delta-vert-12.vercel.app/api?username=hazuru00&theme=radical&show_icons=true)
-<!--
-### Trofeos de GitHub (Mis logros mas Raros)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hazuru00&theme=discord&no-border=true)
--->
-### Lenguajes Usados (😴)
-
-![Top Langs](https://github-readme-stats-delta-vert-12.vercel.app/api/top-langs/?username=hazuru00&langs_count=8&layout=donut&theme=radical)
-
-![WakaTime](https://github-readme-stats-delta-vert-12.vercel.app/api/wakatime?username=hazuru00&theme=radical)
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=👾%20HAZURU00%20Level%20Up!&fontSize=70&fontAlignY=35&desc=Fullstack%20Dev%20|%20Gamer%20|%20Shitposter&descAlignY=55&descSize=20" alt="Hazuru Header"/>
 </div>
 
 <div align="center">
-    <h1>Mi targeta de dev<h1>
-  <a  href="https://app.daily.dev/hazuru" style="aling-center"><img src="https://api.daily.dev/devcards/v2/iTy8qwet5ZI0xxxH5XLT2.png?r=oiu&type=default" width="356" alt="Moises Marcano's Dev Card"/></a>  
+  <h3>🗣️ <i>Lingan guli guli guli guacha 🗣 lingangu lingangu</i></h3>
+  <p><b>El Dev que le sabe al shitpost, ama el gaming, el buen metal y te automatiza la vida.</b></p>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
+
+<br/>
+
+<h2>🎮 Sobre Mí (Player 1 Ready)</h2>
+
+<table>
+  <tr>
+    <td width="60%">
+      <p>¡Qué onda! Soy <b>Hazuru</b>. Un desarrollador Fullstack venezolano con pasión por construir cosas copadas y automatizar procesos para tener más tiempo libre (y jugar). Mi día a día se basa en picar código, escuchar buena música y pelear con la terminal.</p>
+      <ul>
+        <li>⚔️ <b>Clase:</b> FULLSTACK Developer.</li>
+        <li>🐧 <b>Base de Operaciones:</b> <b>Nobara Linux</b> (Porque el pingüino manda y está optimizado para el gaming, pa).</li>
+        <li>🎧 <b>Buff de Concentración:</b> Soundtrack basado en <b>Metal, Rock, Pop y géneros alternativos</b>.</li>
+        <li>🏆 <b>Misión Actual:</b> Conseguir chamba (necesito plata para Steam), potenciar mi portafolio god y quizás desarrollar un juego indie de chill.</li>
+        <li>🔋 <b>HP Actual:</b> -10/10 (Codear hasta la madrugada me dejó sin stamina).</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://i.imgur.com/GZKANL7.jpeg" alt="Absolute Cinema" width="250" style="border-radius: 10px;"/>
+      <br>
+      <i>En efecto, es cine 🚬</i>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎵 Soundtrack
+<h2>🛠️ Inventario de Habilidades (Mi Build Actual)</h2>
+
+<p>Este es el arsenal de tecnologías que manejo. Desde construir interfaces hermosas en el frontend, hasta despliegues pesados y automatizaciones raras con Inteligencia Artificial.</p>
 
 <div align="center">
-    <p>Siempre codifico al ritmo de la musica para mantener el <i>focus</i> en especial con el <strong>Rock y el Metal</strong>.</p>
-    <strong >🎶Escuchando en este momento</strong>
+
+  <h3>🖥️ Frontend (Arma Principal)</h3>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <br><br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+  <h3>⚙️ Backend & Lenguajes (Arma Secundaria)</h3>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
+  <br><br>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+
+  <h3>🔮 Magia Oscura (DevOps, IA & Automatización)</h3>
+  <img src="https://img.shields.io/badge/n8n-FF6E57?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama_(Local_LLMs)-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
 </div>
 
 <br>
-<div align="center" >
-    <a href="https://HazuCh.pythonanywhere.com/link">
-      <img
-        src="https://HazuCh.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark"
-        alt="Current Spotify Song" width="70%"
-      />
-    </a>
-</div>
 
-
-
+> [!TIP]
+> 💡 **Pro Tip:** Más allá del código tradicional, domino el ecosistema de **Node.js** con **Express** para APIs robustas. También trabajo con flujos de automatización potentes en **n8n** y orquesto infraestructura con **Docker** y **Kubernetes**. ¡Una máquina total!
 
 ---
 
-## 📬 Buzon/Chat (Contacto)
+<h2>📈 Perfil de Jugador (GitHub Stats)</h2>
 
-¿Quieres formar equipo para un proyecto? ¡Mándame un mensaje a mi **Contacto**!
-
-| Plataforma | Link |
-| :--- | :--- |
-| **🌐 Web Personal** | [En Desarrollo] |
-| **📌 Perfil de Discord** | [@Hazuru271] |
-| **📧 Correo Electrónico** | [HazuruCh@proton.me] |
-<!--| **🔗 LinkedIn** | [Aun no] | -->
-> [!WARNING]
-> Si es discord sean claros con lo que necesitan, nada de spam xd si van a mandar momazos de One manden momos eh.
----
-<!-- 
 <div align="center">
-<img
-    src="https://i.redd.it/hagotvz51f971.jpg"
-    alt="CAPITANPERU"
-    />
-
-<h1> ADIOSS!! Y que el poder de la gran causa te acompañe pe</h1>
+  <img src="https://github-readme-stats-delta-vert-12.vercel.app/api?username=hazuru00&theme=radical&show_icons=true&hide_border=true&bg_color=2C2D30" alt="Stats Github" />
+  <img src="https://github-readme-stats-delta-vert-12.vercel.app/api/top-langs/?username=hazuru00&langs_count=6&layout=donut&theme=radical&hide_border=true&bg_color=2C2D30" alt="Top Langs" />
+  
+  <br>
+  
+  <img src="https://github-readme-stats-delta-vert-12.vercel.app/api/wakatime?username=hazuru00&theme=radical&hide_border=true&bg_color=2C2D30" alt="WakaTime" />
+  <a href="https://app.daily.dev/hazuru">
+    <img src="https://api.daily.dev/devcards/v2/iTy8qwet5ZI0xxxH5XLT2.png?r=oiu&type=default" width="300" alt="Hazuru's Dev Card"/>
+  </a>
 </div>
--->
->  [!NOTE]
->  **¡Gracias por visitar mi Base de Operaciones Pe!**
->
-> **GAME OVER...** *Restart* **🚀 hay que llegar al prime**
+
+---
+
+<h2>🎵 Soundtrack de Misión</h2>
+
+<div align="center">
+  <p>Sin música no hay código. Mi Spotify siempre está sonando con lo mejor del <b>Metal, Rock, Pop y música Alternativa</b>. 🤘</p>
+  <a href="https://HazuCh.pythonanywhere.com/link">
+    <img src="https://HazuCh.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark" alt="Current Spotify Song" width="400"/>
+  </a>
+</div>
+
+---
+
+<h2>📬 Buzón de Contacto (Multiplayer Lobby)</h2>
+
+<div align="center">
+  <p>¿Querés armar un equipo, proponer un proyecto o tirarme un centro con una chamba? ¡Escribime!</p>
+  
+  <a href="https://hazurudev.vercel.app">
+    <img src="https://img.shields.io/badge/Mi_Portafolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portafolio"/>
+  </a>
+  <a href="mailto:HazuruCh@proton.me">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Correo"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  
+  <p><b>👾 Discord:</b> <code>@Hazuru271</code></p>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
+</div>
