@@ -3,7 +3,10 @@
 </div>
 
 <div align="center">
-  <h3>🗣️ <i>Lingan guli guli guli guacha 🗣 lingangu lingangu</i></h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F7319E&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%97%A3%EF%B8%8F+Lingan+guli+guli+guli+guacha+%F0%9F%97%A3%EF%B8%8F;El+Dev+que+te+automatiza+la+vida;Fullstack+%7C+Gaming+%7C+Metal+%7C+Linux;Siempre+a+tiro+de+una+PR+%F0%9F%92%AA" alt="Typing SVG" />
+  </a>
+  <br>
   <p><b>El Dev que le sabe al shitpost, ama el gaming, el buen metal y te automatiza la vida.</b></p>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
@@ -41,32 +44,22 @@
 <div align="center">
 
   <h3>🖥️ Frontend (Arma Principal)</h3>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <br><br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind&theme=dark" />
+  </a>
 
   <h3>⚙️ Backend & Lenguajes (Arma Secundaria)</h3>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
-  <br><br>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,godot,sqlite,postgres,prisma&theme=dark" />
+  </a>
 
   <h3>🔮 Magia Oscura (DevOps, IA & Automatización)</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,linux&theme=dark" />
+  </a>
+  <br>
   <img src="https://img.shields.io/badge/n8n-FF6E57?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama_(Local_LLMs)-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
 </div>
 
@@ -89,6 +82,18 @@
   <a href="https://app.daily.dev/hazuru">
     <img src="https://api.daily.dev/devcards/v2/iTy8qwet5ZI0xxxH5XLT2.png?r=oiu&type=default" width="300" alt="Hazuru's Dev Card"/>
   </a>
+</div>
+
+---
+
+<h2>🐍 El Commit Snake (Contribution Graph)</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hazuru00/hazuru00/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hazuru00/hazuru00/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/hazuru00/hazuru00/output/github-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
