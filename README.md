@@ -62,7 +62,7 @@
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=vue" width="40" alt="vue"/><br />Vue.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="tailwind"/><br />Tailwind</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=framer" width="40" alt="motion"/><br />Motion</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg"" width="40" alt="motion"/><br />Motion</td>
     <td align="center"><img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" width="50" alt="gsap"/><br />GSAP</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="40" alt="figma"/><br />Figma</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40" alt="rn"/><br />React Native</td>
