@@ -8,12 +8,21 @@
   </a>
   <br>
   <p><b>El Dev que le sabe al shitpost, ama el gaming, el buen metal y te automatiza la vida.</b></p>
+
+  <!-- 👁️ Contador de visitas -->
+  <img src="https://komarev.com/ghpvc/?username=hazuru00&color=F7319E&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Profile Views"/>
+
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
 <br/>
+<div align="center">
 
-<h2>🎮 Sobre Mí (Player 1 Ready)</h2>
+  <img  src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="400" alt="busy at work"/>
+<div/>
+<h2><!-- 🐱 Gatito pixel art spinning -->
+      <img src="https://private-user-images.githubusercontent.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzgwMDg0NTQsIm5iZiI6MTc3ODAwODE1NCwicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU5NzMtZTRmMjgyMDQtZWE4OC00MzY0LWEzMjEtODMzMGMzZmJkZTZhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTA1VDE5MDkxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFkNTBmOGQ0ZTdhZTQ4MzFjODllOWZjMTFiNjA5M2E2YmYxNTQ5ZmUyYTdlMTIxOWU3YzgyNzBjNjU2ZjQ1OGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.c-Vuk8qSa_PdB4vBgR500iw9vZE31FrPYK9EzrooBRs" width="60" alt="Pixel Cat Spinning"/>&nbsp; 🎮 Sobre Mí (Player 1 Ready) &nbsp;<!-- 🐱 Gatito pixel art spinning -->
+      <img src="https://private-user-images.githubusercontent.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzgwMDg0NTQsIm5iZiI6MTc3ODAwODE1NCwicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU5NzMtZTRmMjgyMDQtZWE4OC00MzY0LWEzMjEtODMzMGMzZmJkZTZhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTA1VDE5MDkxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFkNTBmOGQ0ZTdhZTQ4MzFjODllOWZjMTFiNjA5M2E2YmYxNTQ5ZmUyYTdlMTIxOWU3YzgyNzBjNjU2ZjQ1OGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.c-Vuk8qSa_PdB4vBgR500iw9vZE31FrPYK9EzrooBRs" width="50" alt="Pixel Cat Spinning"/></h2>
 
 <table>
   <tr>
@@ -28,49 +37,78 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://i.imgur.com/GZKANL7.jpeg" alt="Absolute Cinema" width="250" style="border-radius: 10px;"/>
+      <img src="https://i.imgur.com/GZKANL7.jpeg" alt="Absolute Cinema" width="220" style="border-radius: 10px;"/>
       <br>
       <i>En efecto, es cine 🚬</i>
+      <br><br>
     </td>
   </tr>
 </table>
 
 ---
 
-<h2>🛠️ Inventario de Habilidades (Mi Build Actual)</h2>
+<h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35" alt="skills gif"/>&nbsp; Inventario de Habilidades (Mi Build Actual) &nbsp;<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35" alt="skills gif"/></h2>
 
-<p>Este es el arsenal de tecnologías que manejo. Desde construir interfaces hermosas en el frontend, hasta despliegues pesados y automatizaciones raras con Inteligencia Artificial.</p>
+<h3>🖥️ Frontend (Arma Principal)</h3>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="40" alt="html"/><br />HTML5</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="40" alt="css"/><br />CSS3</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="40" alt="js"/><br />JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="40" alt="ts"/><br />TypeScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40" alt="react"/><br />React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="40" alt="nextjs"/><br />Next.js</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vue" width="40" alt="vue"/><br />Vue.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="tailwind"/><br />Tailwind</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=framer" width="40" alt="motion"/><br />Motion</td>
+    <td align="center"><img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" width="50" alt="gsap"/><br />GSAP</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="40" alt="figma"/><br />Figma</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40" alt="rn"/><br />React Native</td>
+  </tr>
+</table>
 
-<div align="center">
+<h3>⚙️ Backend & Lenguajes (Arma Secundaria)</h3>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="nodejs"/><br />Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="40" alt="express"/><br />Express</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="40" alt="python"/><br />Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="40" alt="fastapi"/><br />FastAPI</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=godot" width="40" alt="godot"/><br />Godot</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="40" alt="postgres"/><br />PostgreSQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="mongodb"/><br />MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="40" alt="sqlite"/><br />SQLite</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="40" alt="firebase"/><br />Firebase</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=prisma" width="40" alt="prisma"/><br />Prisma</td>
+  </tr>
+</table>
 
-  <h3>🖥️ Frontend (Arma Principal)</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind&theme=dark" />
-  </a>
-
-  <h3>⚙️ Backend & Lenguajes (Arma Secundaria)</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,godot,sqlite,postgres,prisma&theme=dark" />
-  </a>
-
-  <h3>🔮 Magia Oscura (DevOps, IA & Automatización)</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,linux&theme=dark" />
-  </a>
-  <br>
-  <img src="https://img.shields.io/badge/n8n-FF6E57?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama_(Local_LLMs)-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-
-</div>
+<h3>🔮 Magia Oscura (DevOps & Herramientas)</h3>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="40" alt="docker"/><br />Docker</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="40" alt="kubernetes"/><br />K8s</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="40" alt="linux"/><br />Linux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bash" width="40" alt="bash"/><br />Bash</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="40" alt="git"/><br />Git</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="40" alt="postman"/><br />Postman</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="40" alt="vercel"/><br />Vercel</td>
+    <td align="center"><img src="https://img.shields.io/badge/n8n-FF6E57?style=flat&logo=n8n&logoColor=white" height="30" alt="n8n"/><br />n8n</td>
+    <td align="center"><img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" height="30" alt="ollama"/><br />Ollama</td>
+  </tr>
+</table>
 
 <br>
 
-> [!TIP]
-> 💡 **Pro Tip:** Más allá del código tradicional, domino el ecosistema de **Node.js** con **Express** para APIs robustas. También trabajo con flujos de automatización potentes en **n8n** y orquesto infraestructura con **Docker** y **Kubernetes**. ¡Una máquina total!
-
 ---
 
-<h2>📈 Perfil de Jugador (GitHub Stats)</h2>
+<h2><img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzgwMDg0NTQsIm5iZiI6MTc3ODAwODE1NCwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTA1VDE5MDkxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYxMzUyYzk3OTA0MTllMmViZmNhNTBmZGJjNjg0YmZlY2RiZDI2NDU1MDY3ZWYwNTIwZGFkYjFhNzJjMWUxY2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.4pec8i_sSaAcwDCn2rhEZyyNHWMtXV0NtUmWK7a9yso" width="100" alt="lets code gif"/>&nbsp; 📈 Perfil de Jugador (GitHub Stats) </h2>
 
 <div align="center">
   <img src="https://github-readme-stats-delta-vert-12.vercel.app/api?username=hazuru00&theme=radical&show_icons=true&hide_border=true&bg_color=2C2D30" alt="Stats Github" />
@@ -98,7 +136,7 @@
 
 ---
 
-<h2>🎵 Soundtrack de Misión</h2>
+<h2>🎵 Soundtrack de Misión &nbsp;<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="40" alt="bongo cat pixel"/></h2>
 
 <div align="center">
   <p>Sin música no hay código. Mi Spotify siempre está sonando con lo mejor del <b>Metal, Rock, Pop y música Alternativa</b>. 🤘</p>
@@ -128,6 +166,12 @@
 </div>
 
 <br>
+
+<!-- 🔥 Campfire de cierre -->
+<div align="center">
+  <img src="https://media.tenor.com/YbzQM17QUG0AAAAj/cat-cats.gif"  alt="cats campfire"/>
+  <p><img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="80" alt="campfire"/><i>&nbsp; Gracias por pasar por aquí, viajero. El fuego está encendido. &nbsp;<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="80" alt="campfire"/></i></p>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
