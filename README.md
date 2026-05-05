@@ -140,7 +140,7 @@
 
 <div align="center">
   <p>Sin música no hay código. Mi Spotify siempre está sonando con lo mejor del <b>Metal, Rock, Pop y música Alternativa</b>. 🤘</p>
-  <a href="https://HazuCh.pythonanywhere.com/link">
+  <a href="https://discord.com/users/754787869532618883">
     <img src="https://lanyard.kyrie25.dev/api/754787869532618883?animatedDecoration=true&showDisplayName=true&hideStatus=false&hideClan=false&hideProfile=false&showBanner=animated" alt="Current Spotify Song" width="400"/>
   </a>
 </div>
