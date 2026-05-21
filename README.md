@@ -77,6 +77,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=python" width="40" alt="python"/><br />Python</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="40" alt="fastapi"/><br />FastAPI</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=godot" width="40" alt="godot"/><br />Godot</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=lua" width="40" alt="lua"/><br />Lua</td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="40" alt="postgres"/><br />PostgreSQL</td>
@@ -84,6 +85,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="40" alt="sqlite"/><br />SQLite</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="40" alt="firebase"/><br />Firebase</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=prisma" width="40" alt="prisma"/><br />Prisma</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=electron" width="40" alt="electron"/><br />Electron</td>
   </tr>
 </table>
 
@@ -95,13 +97,20 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="40" alt="linux"/><br />Linux</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=bash" width="40" alt="bash"/><br />Bash</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="40" alt="git"/><br />Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=npm" width="40" alt="npm"/><br />NPM</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pnpm" width="40" alt="pnpm"/><br />PNPM</td>
   </tr>
   <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=md" width="40" alt="md"/><br />Markdrown</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="40" alt="postman"/><br />Postman</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="40" alt="vscode"/><br />Vscode</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="40" alt="vercel"/><br />Vercel</td>
     <td align="center"><img src="https://img.shields.io/badge/n8n-FF6E57?style=flat&logo=n8n&logoColor=white" height="30" alt="n8n"/><br />n8n</td>
     <td align="center"><img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" height="30" alt="ollama"/><br />Ollama</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bots" width="40" alt="bots"/><br />Bots</td>
   </tr>
+
+
 </table>
 
 <br>
